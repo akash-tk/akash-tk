@@ -27,11 +27,4 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-tk&show_icons=true&locale=en&theme=transparent&border_color=30363d" alt="akash-tk" /></p>
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-tk&theme=transparent&border_color=30363d" alt="akash-tk" /></p>
-
-
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/883b8cf7d6312c7a26e63ed79090be91bc20a747/resources/img/grid-snake.svg" width="100%"/>
