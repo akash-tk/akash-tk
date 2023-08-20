@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/883b8cf7d6312c7a26e63ed79090be91bc20a747/resources/img/grid-snake.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Akash T K</h1>
 <h3 align="center">Final year engineering undergrad with a passion for creativity, a thirst for knowledge, and a dedication to excellence.</h3>
