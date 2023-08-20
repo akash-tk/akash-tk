@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" height="245px"/>
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/883b8cf7d6312c7a26e63ed79090be91bc20a747/resources/img/grid-snake.svg" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Akash T K</h1>
 <h3 align="center">Final year engineering undergrad with a passion for creativity, a thirst for knowledge, and a dedication to excellence.</h3>
@@ -32,3 +32,6 @@
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-tk&theme=transparent&border_color=30363d" alt="akash-tk" /></p>
+
+
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/883b8cf7d6312c7a26e63ed79090be91bc20a747/resources/img/grid-snake.svg" width="100%"/>
