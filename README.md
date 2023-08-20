@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Akash T K</h1>
 <h3 align="center">a final year engineering undergrad with a passion for creativity, a thirst for knowledge, and a dedication to excellence.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)">
-
 - 📫 How to reach me **akash.tk333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
