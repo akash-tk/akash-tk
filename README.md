@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash T K</h1>
 <h3 align="center">Final year engineering undergrad with a passion for creativity, a thirst for knowledge, and a dedication to excellence.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-tk&label=Profile%20views&color=0e75b6&style=flat" alt="akash-tk" /> </p>
 
 - 📫 How to reach me **akash.tk333@gmail.com**
 
@@ -21,3 +21,11 @@
 ---
 
 ## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akash-tk&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&border_color=30363d&count-private=true)
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-tk&show_icons=true&locale=en&theme=transparent&border_color=30363d" alt="akash-tk" /></p>
+
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-tk&theme=transparent&border_color=30363d" alt="akash-tk" /></p>
