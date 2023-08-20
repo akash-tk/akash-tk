@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 <h1 align="center">Hi 👋, I'm Akash T K</h1>
 <h3 align="center">Final year engineering undergrad with a passion for creativity, a thirst for knowledge, and a dedication to excellence.</h3>
 
