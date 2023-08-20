@@ -20,4 +20,4 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-tk&show_icons=true&locale=en&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&border_color=30363d&count-private=true" alt="akash-tk" /></p>
+## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akash-tk&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&border_color=30363d&count-private=true)
