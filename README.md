@@ -21,7 +21,12 @@
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-tk&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&border_color=30363d&count-private=true&hide=glsl,roff "Most Used Languages")
+<br>
+<h3 style="margin-bottom:10px" align="left"></h3>
+<p align="center">
+ <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash-tk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>&nbsp&nbsp&nbsp
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-tk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akash-tk" />
+</p>
 
 ---
 
