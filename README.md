@@ -21,7 +21,6 @@
 
 ---
 
-<br>
 <h3 style="margin-bottom:10px" align="left"></h3>
 <p align="center">
  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash-tk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>&nbsp&nbsp&nbsp
