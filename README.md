@@ -23,7 +23,7 @@
 
 <p align="center">
 <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash-tk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>&nbsp&nbsp&nbsp
-<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-tk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akash-tk" />
+ <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-tk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" alt="languages graph"/>
 </p>
 
 ---
