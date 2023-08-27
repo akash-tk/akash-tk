@@ -29,7 +29,7 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-tk&theme=onedark-duo&border_color=30363d" alt="akash-tk" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-tk&theme=gruvbox-duo&border_color=30363d" alt="akash-tk" /></p>
 
 ---
 
