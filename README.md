@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash T K</h1>
 <h3 align="center">Final year engineering undergrad with a passion for creativity, a thirst for knowledge, and a dedication to excellence.</h3>
 
-<p align="left">&nbsp&nbsp&nbsp&nbsp<img src="https://komarev.com/ghpvc/?username=akash-tk&label=Profile%20views&color=0e75b6&style=flat" alt="akash-tk" /> </p>
 
  - 📫 How to reach me **akash.tk333@gmail.com**
 
