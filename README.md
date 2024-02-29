@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/akash-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-tk" height="30" width="40" /></a>
 <a href="https://twitter.com/akash_tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_tk" height="30" width="40" /></a>
-<a href="https://instagram.com/akashtk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashtk18" height="40" width="50" /></a>
+<a href="https://instagram.com/akashtk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashtk18" height="30" width="40" /></a>
 <a href="https://g.dev/akash-tk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Google_Developers_icon_2020.png" alt="akash-tk" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/akashtk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="akashtk" height="50" width="40" /></a>
 </p>
